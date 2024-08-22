@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img  src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img  src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br/><br/><br/>
