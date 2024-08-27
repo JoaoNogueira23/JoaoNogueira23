@@ -18,11 +18,12 @@
 
 ## Learning technologies:
 <div style="display: flex; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white"/>
-<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img  src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-blue?style=for-the-badge&logo=aws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
 <br/><br/><br/>
