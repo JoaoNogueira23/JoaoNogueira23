@@ -1,11 +1,11 @@
-### Hello, my name is João Victor! Welcome to my GitHub!!!
+###  Olá! Eu sou João Victor. Seja bem-vindo ao meu GitHub!
 
 ## About:
-
-* :grin: I'm a passinate for technological innovations, especially those that ar socially impactful.
-* :rocket: i like natural sciences
-
-- 🤯 curiosity: I'm passionate about football and I like to play video games hahaha
+<div>
+  <p style="text-justify: justify;">
+    Sou um desenvolvedor Full Stack com sólida experiência em Python e JavaScript, utilizando frameworks como React e TypeScript. Tenho forte conhecimento em Bancos de Dados Relacionais e sou proficiente em tecnologias de nuvem como AWS         e     Azure. Além disso, possuo experiência com ferramentas de LOW CODE, como Power BI, Power Automate e UiPath.
+  </p>
+</div>
 
 
 ### Contact:
@@ -28,6 +28,4 @@
 
 <br/><br/><br/>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNogueira23&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNogueira23&theme=blue-green&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)   
