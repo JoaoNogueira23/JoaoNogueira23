@@ -19,12 +19,14 @@
 ## Tecnologias em Estudo:
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img  src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-blue?style=for-the-badge&logo=aws&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
 
 </div>
 
